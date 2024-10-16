@@ -1,0 +1,18 @@
+# Ignorar diretórios de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+ENV/
+env/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
